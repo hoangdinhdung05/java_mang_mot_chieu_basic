@@ -2,6 +2,19 @@ import java.util.*;
 
 public class Bai1_NC {
 
+    // TEST:
+    // 6
+    // -10 -10 2 3 4 5
+    // OUT:
+    // 5 5
+    // -10 1
+    // 3
+    // 100
+    // NO
+    // 12000
+
+
+
     // Kiểm tra số nguyên tố
     public static boolean nt(int n) {
         if (n <= 1) return false;
