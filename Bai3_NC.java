@@ -1,11 +1,7 @@
-
-
 import java.util.*;
 
 public class Bai3_NC {
 
-
-    
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
