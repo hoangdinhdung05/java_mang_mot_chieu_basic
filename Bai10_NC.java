@@ -1,5 +1,15 @@
 import java.util.*;
 
+//Hop va giao
+// 5 6
+// 1 2 1 2 7
+// 1 2 3 4 5 6
+// OUT
+// 1 2
+// 1 2 3 4 5 6 7
+
+
+
 public class Bai10_NC {
 
     public static void main(String[] args) {
